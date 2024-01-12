@@ -3,7 +3,7 @@
 ## Introduction
 In an era where digital communication and image sharing have become ubiquitous, the protection of data privacy is of paramount importance. The SecurePix leverages cutting-edge technologies such as deepfake, face recognition, and Generative Adversarial Network (GAN) algorithms to establish a robust framework aimed at safeguarding the identities of individuals portrayed in images shared across social media platforms. Our primary objective is to advocate for and contribute to the enhancement of data privacy by deploying advanced techniques to anonymize the involuntary identity exposure associated with the proliferation of personal images online.
 
-![alt text](./images/test_1.png)
+![alt text](./images/test_1.jpg)
 ![alt text](./images/test_1_result.png)
 ![alt text](./images/test_1_fake.png)
 
