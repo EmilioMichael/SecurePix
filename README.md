@@ -5,7 +5,7 @@ In an era where digital communication and image sharing have become ubiquitous, 
 
 ![alt text](./images/test_1.png)
 ![alt text](./images/test_1_result.png)
-
+![alt text](./images/test_1_fake.png)
 
 ## Technical Pipeline
 The SecurePix image process pipeline is mainly consisted of three modules.
