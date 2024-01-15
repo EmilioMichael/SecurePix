@@ -1,0 +1,11 @@
+lpips
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+click
+requests
+tqdm
+pyspng
+ninja
+imageio-ffmpeg==0.4.3scipy
